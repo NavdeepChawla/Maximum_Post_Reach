@@ -7,3 +7,4 @@ Task is to select minimum number of people to give a post such that it reaches e
 Note:Post will even reach to friends of friend.Eg If "A" is connected to "B" and "B" is connected to "C" then the post given to "A" will also reach to "C".
 
 Concepts Used:
+Spanning Trees
